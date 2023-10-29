@@ -1,0 +1,27 @@
+     ********** Personal Information **********     
+Fullname: hitesh
+Surname: natha
+Address: chandpole bazar
+jaipur
+
+ Pincode: 302001
+Nationality: indian
+DOB: 01/10/2002
+Phone No.: 9772932374
+Email: hiteshnatha15@gmail.com
+     ********** Skills **********     
+Category: Java
+Description
+Category: C++
+Description
+Category: Mysql
+Description: 
+     ********** Qualifications **********     
+College/University: 
+School: 
+Other: 
+     ********** Work Experience **********     
+Company: CodeClause
+Designation: Intern
+Company: 
+Designation: 
